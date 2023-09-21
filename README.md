@@ -1,7 +1,7 @@
 # TEAM9_UG
 Authors:
 
-Eddie Kim (hmk3) /n Apple Li (xl102) /n Gabriel Ramirez (gjr4) /n Mina Ryumae (mkr5)
+Eddie Kim (hmk3) \n Apple Li (xl102) /n Gabriel Ramirez (gjr4) /n Mina Ryumae (mkr5)
 
 1. Problem Formulations
  /n 1.1 Introduction: brief literature review and related works /n
