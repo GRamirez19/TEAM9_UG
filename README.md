@@ -6,6 +6,7 @@ Eddie Kim (hmk3)
 Apple Li (xl102) 
 
 Gabriel Ramirez (gjr4)
+
 Mina Ryumae (mkr5)
 
 1. Problem Formulations
