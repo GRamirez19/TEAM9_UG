@@ -17,7 +17,7 @@ Mina Ryumae (mkr5)
        
  Running Environment: all OS and softwares w/ versions 
  
-       macOS Ventura 13.4, Python 3.0+, 
+       macOS Ventura 13.4, Python 3.6.8, 
        
  Library Usage/dependencies 
  
