@@ -10,5 +10,6 @@ Eddie Kim (hmk3) /n Apple Li (xl102) /n Gabriel Ramirez (gjr4) /n Mina Ryumae (m
    1.2 Running Environment: all OS and softwares w/ versions /n
        macOS Ventura 13.4, Python 3.0+, /n
    1.3 Library Usage/dependencies /n
-       Pandas, FastQ Tools, Pysam /n 
+       Pandas, FastQ Tools, Pysam
+   /n 
 https://docs.google.com/document/d/1gCdylt4IeLnSpVFanDLOhe0zGX_Peei0s8iUTndp9QU/edit?usp=sharing
